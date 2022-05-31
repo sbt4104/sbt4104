@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I am a software develpoer. I often solve problems in the domain of data structures & Algorithms. I am highly interested in the topics related to computer systems like operating systems, computer architecture & distributed systems. I also explore topics related to Machine Learning as I love the mathematics involved in it. (in short I love everything that involves technology, mathematics & fun)
+I am a software developer. I often solve problems in the domain of data structures & Algorithms. I am highly interested in the topics related to computer systems like operating systems, computer architecture & distributed systems. I also explore topics related to Machine Learning as I love the mathematics involved in it. (in short I love everything that involves technology, mathematics & fun)
 <br />
 
 Work Experience
