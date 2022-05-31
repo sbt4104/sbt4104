@@ -21,7 +21,7 @@ Work Experience
 
 - Specialist in Software Development (Infineon Technologies)
 - Software Engineer (Natwest Group)
-- R&D Inter (Infineon Technologies)
+- R&D Intern (Infineon Technologies)
 
 Certificates
 ---
