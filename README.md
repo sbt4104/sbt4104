@@ -26,13 +26,12 @@ Work Experience
 Certificates
 ---
 
-- Machine Learning [(Coursera)](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecoursera%2Eorg%2Faccount%2Faccomplishments%2Fverify%2FUULRRP44PKUS&urlhash=xEQi&trk=public_profile_see-credential)
-- The Bits and Bytes of Computer Networking [(Coursera)](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecoursera%2Eorg%2Faccount%2Faccomplishments%2Fcertificate%2FSZJCNCB5DZJ8&urlhash=_ZH9&trk=public_profile_see-credential)
-- Graph Search, Shortest Paths, and Data Structures [(Coursera)](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecoursera%2Eorg%2Faccount%2Faccomplishments%2Fverify%2FJXRQ6URAMDS2&urlhash=IgCq&trk=public_profile_see-credential)
-- Divide and Conquer, Sorting and Searching, and Randomized Algorithms [(Coursera)](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecoursera%2Eorg%2Faccount%2Faccomplishments%2Fcertificate%2F2CBPSFQ29REW&urlhash=1kU6&trk=public_profile_see-credential)
-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning [(Coursera)](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fcoursera%2Eorg%2Fshare%2F84430ec7bc618b5f95ed884bbe17997d&urlhash=3SBX&trk=public_profile_see-credential)
-- Security for Hackers and Developers: Overview [(Pluralsight)](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fdrive%2Egoogle%2Ecom%2Ffile%2Fd%2F1g2NKcDSkr11J1S87QTsUGRVpTIM49qpd%2Fview%3Fusp%3Dsharing&urlhash=UtQ6&trk=public_profile_see-credential)
-- An Introductory Guide to SQL [(Educative)](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eeducative%2Eio%2Fverify-certificate%2Fwk4pOyRqw4Atggw1NLWkX7IlWzjj3k3LjTG&urlhash=rCCb&trk=public_profile_see-credential)
+- Machine Learning [(Coursera)](https://www.coursera.org/account/accomplishments/verify/UULRRP44PKUS)
+- The Bits and Bytes of Computer Networking [(Coursera)](https://www.coursera.org/account/accomplishments/certificate/SZJCNCB5DZJ8)
+- Graph Search, Shortest Paths, and Data Structures [(Coursera)](https://www.coursera.org/account/accomplishments/verify/JXRQ6URAMDS2)
+- Divide and Conquer, Sorting and Searching, and Randomized Algorithms [(Coursera)](https://www.coursera.org/account/accomplishments/certificate/2CBPSFQ29REW)
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning [(Coursera)](https://www.coursera.org/account/accomplishments/verify/KGQYC7ATULRW)
+- An Introductory Guide to SQL [(Educative)](https://www.educative.io/verify-certificate/wk4pOyRqw4Atggw1NLWkX7IlWzjj3k3LjTG)
 
 ![Shubham Thorat's github stats](https://github-readme-stats.vercel.app/api?username=sbt4104&show_icons=true&hide_border=true)
 <br />
