@@ -1,4 +1,4 @@
-## Hi, I'm [Shubham!](https://sbt4104.github.io)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi, I'm [Shubham!](https://sbt4104.github.io)
 
 <a href="https://www.linkedin.com/in/shubhambthorat/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
