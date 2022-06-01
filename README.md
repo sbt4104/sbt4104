@@ -1,4 +1,4 @@
-## Hi, I'm [Shubham!]([https://sbt4104.github.io](https://www.linkedin.com/in/shubhambthorat/)
+## Hi, I'm [Shubham!](https://www.linkedin.com/in/shubhambthorat/)
 
 <a href="https://www.linkedin.com/in/shubhambthorat/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
