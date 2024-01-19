@@ -1,5 +1,7 @@
 ## Hi, I'm [Shubham!](https://www.linkedin.com/in/shubhambthorat/)
-also check out (https://github.com/shubham4104)
+also check out (https://github.com/shubham4104) and
+(https://www.youtube.com/channel/UCX0QyqwcrAt-STO5NEXRm0g)
+
 <a href="https://www.linkedin.com/in/shubhambthorat/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
