@@ -11,6 +11,9 @@ also check out (https://github.com/shubham4104) and
 <a href="https://www.hackerrank.com/sbt4104">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"  />
 </a>
+<a href="https://www.youtube.com/channel/UCX0QyqwcrAt-STO5NEXRm0g">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"  />
+</a>
 
 <br />
 <br />
